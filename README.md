@@ -5,3 +5,4 @@ Setup: run `./install.sh` then open the [jupyter_notebook_overview.ipynb](./jupy
 Live preview in `nbviewer`: https://nbviewer.jupyter.org/github/serebrov/jupyter_notebook_overview/blob/master/jupyter_notebook_overview.ipynb.
 
 The [sympy_examples.ipynb](./sympy_examples.ipynb) contains some [SymPy](http://docs.sympy.org/latest/tutorial/intro.html) examples.
+See also: https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-5-Sympy.ipynb
